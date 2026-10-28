@@ -5,6 +5,8 @@ An unofficial HTML5/WebAssembly port of OpenTTD.
 
 Latest version is [OpenTTD-15.3](https://github.com/Fir-Trouble/Openttd-Html5/releases/latest)
 
+Join the Discord server with all my other random projects. [Ivy-Projects](https://discord.gg/ECBY4DTr42)
+
 
 ### Controls & Features
 * **CTRL + SHIFT + S:** Opens the custom save downloader/uploader (since standard OpenTTD doesn't natively support this on the web)
